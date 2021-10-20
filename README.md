@@ -3,7 +3,7 @@
 🤵🏻**Floruta Raul, 20yo, Romanian**<br/>
 💻**SidTech Projects Development CEO**<br/>
 🎓**Student at University of Oradea**, Informatics and Science, 2/3<br/>
-[🏮CodeWars](https://www.codewars.com/users/FloFlo25)<br/>
+[🏮CodeWars Profile](https://www.codewars.com/users/FloFlo25)<br/>
 📫 How to reach me:<br/>
 * 📧: floruta.raul25@gmail.com
 * 
