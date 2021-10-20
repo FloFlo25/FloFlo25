@@ -4,7 +4,7 @@
 💻**SidTech Projects Development CEO**<br/>
 🎓**Student at University of Oradea**, Informatics and Science, 2/3<br/>
 [🏮CodeWars Profile](https://www.codewars.com/users/FloFlo25)<br/>
-**C#️⃣ Addict**
+**C#️⃣ Addict**<br/>
 📫 How to reach me:<br/>
 * 📧: floruta.raul25@gmail.com
 
