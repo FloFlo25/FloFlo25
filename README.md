@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🤵🏻Floruta Raul, 20yo, Romanian
+🤵🏻Floruta Raul, 20yo, Romanian<br/>
 💻**SidTech Projects Development CEO**
 🎓**Student at University of Oradea**, Informatics and Science, 2/3
 [🏮CodeWars](https://www.codewars.com/users/FloFlo25)
