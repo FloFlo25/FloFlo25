@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🤵🏻Floruta Raul, 20yo, Romanian
+💻**SidTech Projects Development CEO**
+🎓**Student at University of Oradea**, Informatics and Science, 2/3
+[🏮CodeWars](https://www.codewars.com/users/FloFlo25)
+📫 How to reach me:
+* 📧: floruta.raul25@gmail.com
+* 
+![image](https://user-images.githubusercontent.com/60173935/138059026-84cb77ee-68fa-48d6-a82e-014f6b334542.png)
+
+
 <!--
 **FloFlo25/FloFlo25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
