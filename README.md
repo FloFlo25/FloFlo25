@@ -7,7 +7,7 @@
 📫 How to reach me:
 * 📧: floruta.raul25@gmail.com
 * 
-![image](https://user-images.githubusercontent.com/60173935/138059026-84cb77ee-68fa-48d6-a82e-014f6b334542.png)
+
 
 
 <!--
