@@ -10,7 +10,7 @@
 </ul>
 
 <h2>📫 How to reach me:</h2>
-[![FloFlo25's Email](./img/email-light.svg)](mailto:floruta.raul25@gmail.com)
+<a href="https://www.youtube.com/watch?v=Ow0xcOL2ErY"><img src="./img/email-white.svg" width="124px" alt="test" /></a>
 
 <h1><u>Tools that I use</u></h1>
 <img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" style="padding-right:10px;"/>
