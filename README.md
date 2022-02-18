@@ -10,7 +10,7 @@
 </ul>
 
 <h2>📫 How to reach me:</h2>
-📧: floruta.raul25@gmail.com
+[![FloFlo25's Email](./img/email-light.svg)](mailto:floruta.raul25@gmail.com)
 
 <h1><u>Tools that I use</u></h1>
 <img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" style="padding-right:10px;"/>
