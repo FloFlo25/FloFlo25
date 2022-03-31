@@ -22,6 +22,8 @@
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="HTML" width="40px" src="https://www.sololearn.com/certificates/course/en/21214615/1080/landscape/png" style="padding-right:10px;"/>
+     
 
 
 
