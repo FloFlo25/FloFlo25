@@ -3,11 +3,11 @@
 <h1> Hi there 👋 </h1>
 
 <h2> Who am I, you ask? 🤔 </h2>
-<ul style="list-style-type: none;">
-<li>🤵🏻Floruta Raul, 20yo, Romanian
-<li>💻SidTech Projects Developments CEO
-<li>🎓Student at University of Oradea, Informatics and Science, 2/3
-</ul>
+🤵🏻Floruta Raul, 20yo, Romanian <br/>
+💻SidTech Projects Developments CEO <br/>
+🎓Student at University of Oradea, Informatics and Science, 2/3 <br/>
+<span><img width=16px height=16px src='https://svgshare.com/i/iAf.svg' alt="qubiz">  Junior Software Developer</span>
+
 
 <h2>📫 How to reach me:</h2>
 <a href="mailto:floruta.raul25@email.com"><img src="./img/gmail.svg" width="40px" alt="gmail" /></a>
