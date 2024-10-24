@@ -5,8 +5,6 @@
 <h2> Who am I, you ask? 🤔 </h2>
 🤵🏻Floruta Raul, 20yo, Romanian <br/>
 💻SidTech Projects Developments CEO <br/>
-🎓Student at University of Oradea, Informatics and Science, 2/3 <br/>
-<span><img width=16px height=16px src='https://svgshare.com/i/iAf.svg' alt="qubiz">  Junior Software Developer</span>
 
 
 <h2>📫 How to reach me:</h2>
